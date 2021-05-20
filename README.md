@@ -10,6 +10,9 @@
 ## 基础知识
 
 - JS
+  - https://tc39.es/ecma262/
+  - https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+  - https://github.com/tc39/ecma262
 - HTML
 - CSS
 - 浏览器工作原理
