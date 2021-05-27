@@ -139,7 +139,7 @@
 	- [反转数字](https://www.nowcoder.com/practice/1a3de8b83d12437aa05694b90e02f47a?tpId=117&&tqId=37755&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 	- [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
-- [模拟 (2)](https://leetcode-cn.com/tag//problemset/)
+- 模拟 (2)
 	- [设计LRU缓存结构](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=117&&tqId=37804&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 	- [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 - [递归 (2)](https://leetcode-cn.com/tag/recursion/problemset/)
