@@ -35,9 +35,10 @@ function page(p) {
         res = res.concat(questions.map(item => ({
           // questionId: item.questionId,
           // questionNo: item.questionNo,
+          uuid: item.questionUUid,
+          tpId: item.tpId,
+          tqId: item.tqId,
           title: item.questionTitle,
-          // tpId: item.tpId,
-          // tqId: item.tqId,
           tags: item.tags.map(item => item.name),
           url: getDetailUrl(item.questionUUid, item.tpId, item.tqId)
         })))
@@ -48,7 +49,24 @@ function page(p) {
 }
 
 page(1).then(() => page(2)).then(res => {
-  console.log(JSON.stringify(res))
-  console.log(res)
-  // console.log(res.map((item, index) => (`## ${index+1}. [${item.title}](${item.url})\n${item.tags.map(t => `- ${t}`).join('\n')}`)).join('\n\n'))
+  let questions = new Map()
+  let count = res.length
+  res.forEach(item => request(buildUrl(`https://www.nowcoder.com/practice/terminal/${item.uuid}`, {
+    token: '',
+    tpId: item.tpId,
+    tqId: item.tqId,
+    rp: 1,
+    ru: '/ta/job-code-high',
+    qru: '/ta/job-code-high/question-ranking',
+    _: new Date().getTime()
+  }), function() {
+    console.log(count)
+    let { uuid, content } = JSON.parse(this.responseText).data.question
+    questions.set(uuid, content)
+    if (--count === 0) {
+      console.log('completed!')
+      // console.log(questions)
+      console.log(JSON.stringify(res.map(item => (item.content = questions.get(item.uuid), item)), null, 2))
+    }
+  }))
 })
