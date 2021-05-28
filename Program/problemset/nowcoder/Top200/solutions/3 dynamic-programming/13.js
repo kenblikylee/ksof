@@ -1,0 +1,2 @@
+// #13 子数组的最大累加和问题
+// <div>  给定一个数组arr，返回子数组的最大累加和 </div> <div>  例如，arr = [1, -2, 3, 5, -2, 6, -1]，所有子数组中，[3, 5, -2, 6]可以累加出最大的和12，所以返回12. </div> <div>  题目保证没有全为负数的数据 </div> <div>  <div>   [要求]  </div>  <div>   时间复杂度为<img alt="" src="https://uploadfiles.nowcoder.com/files/20190201/310694_1549028155714_equation?tex=O(n)">，空间复杂度为<img alt="" src="https://uploadfiles.nowcoder.com/files/20190201/310694_1549028116908_equation?tex=O(1)">   </div>  <div>   <br>  </div> </div>

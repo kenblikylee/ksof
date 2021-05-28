@@ -1,0 +1,2 @@
+// #55 反转数字
+// <p>  将给出的<span>32位整数</span>x翻转。<br> 例1:x=123，返回321<br> 例2:x=-123，返回-321 </p> <div>  你有注意到<span>翻转后</span>的整数可能溢出吗？因为给出的是32位整数，<span style="color: rgb(38,38,38);">则其数值范围为<img src="https://www.nowcoder.com/equation?tex=%5B%E2%88%922%5E%7B31%7D%2C%20%202%5E%7B31%7D%20%E2%88%92%201%5D"></span><span style="color: rgb(38,38,38);">。翻转可能</span>会导致溢出，<span style="color: rgb(38,38,38);">如果反转后的结果会溢出就返回 0。</span> </div> <div>  <br> </div>

@@ -156,7 +156,7 @@
 - [图 (1)](https://leetcode-cn.com/tag/graph/problemset/)
 	- [最小生成树](https://www.nowcoder.com/practice/735a34ff4672498b95660f43b7fcd628?tpId=117&&tqId=37869&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
-## 热门排行
+## 排行榜
 
 ### 1. [反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=117&&tqId=37777&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 

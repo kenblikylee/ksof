@@ -1,0 +1,2 @@
+// #67 丢棋子问题
+// <div>  <br> </div> <div>  一座大楼有<img src="https://www.nowcoder.com/equation?tex=0%E2%88%BCN%5C">层，地面算作第0层，最高的一层为第 <img src="https://www.nowcoder.com/equation?tex=N%5C">层。已知棋子从第0层掉落肯定不会摔碎，从第<img src="https://www.nowcoder.com/equation?tex=i%5C">层掉落可能会摔碎，也可能不会摔碎<img src="https://www.nowcoder.com/equation?tex=(1%E2%A9%BDi%E2%A9%BDN)%5C">。给定整数<img src="https://www.nowcoder.com/equation?tex=N%5C">作为楼层数，再给定整数<img src="https://www.nowcoder.com/equation?tex=K%5C">作为棋子数，返回如果想找到棋子不会摔碎的最高层数，即使在最差的情况下扔的最小次数。一次只能扔一个棋子。<br> </div> <div>  <br> </div>

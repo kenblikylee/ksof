@@ -48,7 +48,7 @@
 let pairs = new Map()
 pairs.set('链表', 'linked-list')
 pairs.set('排序', 'sort')
-pairs.set('模拟', '')
+pairs.set('模拟', 'simulation')
 pairs.set('栈', 'stack')
 pairs.set('树', 'tree')
 pairs.set('哈希', 'hash-table')

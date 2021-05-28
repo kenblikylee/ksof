@@ -1,0 +1,2 @@
+// #49 二叉树和为指定值的路径
+// <div>  给定一个二叉树和一个值<img src="https://www.nowcoder.com/equation?tex=%5C%20sum">，请找出所有的根节点到叶子节点的节点值之和等于<img src="https://www.nowcoder.com/equation?tex=%5C%20sum"> 的路径，<br> 例如：<br> 给出如下的二叉树，<img src="https://www.nowcoder.com/equation?tex=%5C%20sum%3D22">， </div> <div>  <img alt="" src="https://uploadfiles.nowcoder.com/images/20200807/999991351_1596785952017_5396804DA19E4F091E6360FD4BD0F4A5" style="height: auto;width: 213.6px;"><br> </div> <div>  返回<br> [<br> <span> </span>[5,4,11,2],<br> <span> </span>[5,8,9]<br> ]<br> </div>

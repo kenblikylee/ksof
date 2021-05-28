@@ -1,0 +1,2 @@
+// #45 字符串出现次数的TopK问题
+// <div>  给定一个字符串数组，再给定整数k，请返回出现次数前k名的字符串和对应的次数。 </div> <div>  返回的答案应该按字符串出现频率由高到低排序。如果不同的字符串有相同出现频率，按字典序排序。 </div> <div>  对于两个字符串，大小关系取决于两个字符串从左到右第一个不同字符的 ASCII 值的大小关系。 </div> <div>  比如&quot;ah1x&quot;小于&quot;ahb&quot;，&quot;231&quot;&lt;”32“<br> </div> <div>  字符仅包含数字和字母 </div> <div>  <br>  <div>   [要求]  </div>  <div>   如果字符串数组长度为N，时间复杂度请达到<img alt="" src="https://uploadfiles.nowcoder.com/files/20190318/310694_1552917525089_equation?tex=O(N%20%5Clog%20K)">   </div> <br> </div> <div> </div>

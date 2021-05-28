@@ -1,0 +1,2 @@
+// #61 重排链表
+// <div>  将给定的单链表<img src="https://www.nowcoder.com/equation?tex=%5C%20L">： <img src="https://www.nowcoder.com/equation?tex=L_0%E2%86%92L_1%E2%86%92%E2%80%A6%E2%86%92L_%7Bn-1%7D%E2%86%92L_%20n"><br> 重新排序为：<img src="https://www.nowcoder.com/equation?tex=L_0%E2%86%92L_n%20%E2%86%92L_1%E2%86%92L_%7Bn-1%7D%E2%86%92L_2%E2%86%92L_%7Bn-2%7D%E2%86%92%E2%80%A6"><br> 要求使用原地算法，不能只改变节点内部的值，需要对实际的节点进行交换。<br> 例如：<br> 对于给定的单链表{10,20,30,40}，将其重新排序为{10,40,20,30}.<br> </div> <div>  <br> </div>

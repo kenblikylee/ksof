@@ -24,4 +24,4 @@ for (let entry of tagCount.entries()) {
 let sorted = tagItems.sort((a, b) => b.items.length - a.items.length)
 let tagsRank = sorted.map(item => `- [${item.tag} (${item.items.length})](https://leetcode-cn.com/tag/${pairs.get(item.tag)}/problemset/)\n${item.items.map(t => `\t- [${t[0]}](${t[1]})`).join('\n')}`).join('\n')
 
-fs.writeFileSync('./README.md', '# 字节跳动笔试\n\n## 标签统计\n\n' + tagsRank + '\n\n## 热门题目\n\n' + out + '\n', 'utf8')
+fs.writeFileSync('./README.md', '# 字节跳动笔试\n\n## 标签统计\n\n' + tagsRank + '\n\n## 排行榜\n\n' + out + '\n', 'utf8')
