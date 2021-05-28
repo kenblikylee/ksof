@@ -23,7 +23,7 @@ let sorted = tagItems.sort((a, b) => b.items.length - a.items.length)
 
 let tagDirPairs = new Map()
 sorted.forEach((item, i) => {
-  let d = `./solutions/${i+1} ${pairs.get(item.tag)}`
+  let d = encodeURI(`https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/${i+1} ${pairs.get(item.tag)}`)
   tagDirPairs.set(item.tag, d)
 })
 
