@@ -139,7 +139,7 @@
 	- #55 [反转数字](https://www.nowcoder.com/practice/1a3de8b83d12437aa05694b90e02f47a?tpId=117&&tqId=37755&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)	@[Solution](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/16%20math/55.js)
 	- #57 [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)	@[Solution](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/2%20array/57.js)
 	- #68 [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)	@[Solution](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/4%20linked-list/68.js)
-- [模拟 (2)](https://leetcode-cn.com/tag/simulation/problemset/)
+- 模拟 (2)
 	- #3 [设计LRU缓存结构](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=117&&tqId=37804&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)	@[Solution](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/17%20simulation/3.js)
 	- #19 [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)	@[Solution](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/5%20string/19.js)
 - [递归 (2)](https://leetcode-cn.com/tag/recursion/problemset/)
@@ -182,7 +182,7 @@
 
 <div>  设计LRU缓存结构，该结构在构造时确定大小，假设大小为K，并有如下两个功能 </div> <div>  <ul>   <li>    set(key, value)：将记录(key, value)插入该结构      <li>    get(key)：返回key对应的value值     </ul> [要求] </div> <div>  <ol>   <li>    set和get方法的时间复杂度为O(1)      <li>    某个key的set或get操作一旦发生，认为这个key的记录成了最常使用的。      <li>    当缓存的大小超过K时，移除最不经常使用的记录，即set或get最久远的。     </ol>  <div>   若opt=1，接下来两个整数x, y，表示set(x, y)<br> 若opt=2，接下来一个整数x，表示get(x)，若x未出现过或已被移除，则返回-1<br> 对于每个操作2，输出一个答案<br>  </div> </div>
 
-#### Tags: [`模拟`](https://leetcode-cn.com/tag/simulation/problemset/)
+#### Tags: `模拟`
 
 [**Solution**](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/17%20simulation/3.js)
 
@@ -342,7 +342,7 @@
 
 <div>  以字符串的形式读入两个数字，编写一个函数计算它们的和，以字符串形式返回。 </div> <div>  （字符串长度不大于100000，保证字符串仅由'0'~'9'这10种字符组成）<br> </div>
 
-#### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`模拟`](https://leetcode-cn.com/tag/simulation/problemset/)
+#### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) `模拟`
 
 [**Solution**](https://github.com/kenblikylee/ksof/tree/main/Program/problemset/nowcoder/Top200/solutions/5%20string/19.js)
 
