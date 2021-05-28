@@ -27,9 +27,9 @@ sorted.forEach((item, i) => {
   tagDirPairs.set(item.tag, d)
 })
 
-let out = data.map((item, index) => (`### ${index+1}. [${item.title}](${item.url})\n\n${item.content}\n\n#### Tags: ${item.tags.map(t => pairs.get(t) ? `[\`${t}\`](https://leetcode-cn.com/tag/${pairs.get(t)}/problemset/)` : `\`${t}\``).join(' ')}\n\n#### [Solution](${tagDirPairs.get(item.tags[0])}/${index+1}.js)`)).join('\n\n')
-
 // console.log(tagDirPairs)
-let tagsRank = sorted.map(item => `- [${item.tag} (${item.items.length})](https://leetcode-cn.com/tag/${pairs.get(item.tag)}/problemset/)\n${item.items.map(t => `\t- [${t[0]}](${t[1]}) @[solution](${tagDirPairs.get(t[2])}/${t[3]}.js)`).join('\n')}`).join('\n')
+let tagsRank = sorted.map(item => `- [${item.tag} (${item.items.length})](https://leetcode-cn.com/tag/${pairs.get(item.tag)}/problemset/)\n${item.items.map(t => `\t- [${t[0]}](${t[1]})\n\t\t- [Solution](${tagDirPairs.get(t[2])}/${t[3]}.js)`).join('\n')}`).join('\n')
+
+let out = data.map((item, index) => (`### ${index+1}. [${item.title}](${item.url})\n\n${item.content}\n\n#### Tags: ${item.tags.map(t => pairs.get(t) ? `[\`${t}\`](https://leetcode-cn.com/tag/${pairs.get(t)}/problemset/)` : `\`${t}\``).join(' ')}\n\n[**Solution**](${tagDirPairs.get(item.tags[0])}/${index+1}.js)`)).join('\n\n<hr>\n\n')
 
 fs.writeFileSync('./README.md', '# 字节跳动笔试\n\n## 标签统计\n\n' + tagsRank + '\n\n## 排行榜\n\n' + out + '\n', 'utf8')

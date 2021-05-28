@@ -3,158 +3,289 @@
 ## 标签统计
 
 - [树 (15)](https://leetcode-cn.com/tag/tree/problemset/)
-	- [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/4.js)
-	- [求二叉树的层序遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=117&&tqId=37723&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/6.js)
-	- [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/20.js)
-	- [最近公共祖先](https://www.nowcoder.com/practice/e0cc33a83afe4530bcec46eba3325116?tpId=117&&tqId=37826&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/24.js)
-	- [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/30.js)
-	- [输出二叉树的右视图](https://www.nowcoder.com/practice/c9480213597e45f4807880c763ddd5f0?tpId=117&&tqId=37848&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/37.js)
-	- [二叉树的最大深度](https://www.nowcoder.com/practice/8a2b2bf6c19b4f23a9bdb9b233eefa73?tpId=117&&tqId=37721&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/39.js)
-	- [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=117&&tqId=37757&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/41.js)
-	- [二叉树的所有路径和](https://www.nowcoder.com/practice/185a87cd29eb42049132aed873273e83?tpId=117&&tqId=37715&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/48.js)
-	- [二叉树和为指定值的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=117&&tqId=37718&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/49.js)
-	- [判断一棵二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=117&&tqId=37822&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/54.js)
-	- [二叉树的最大路径和](https://www.nowcoder.com/practice/da785ea0f64b442488c125b441a4ba4a?tpId=117&&tqId=37716&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/58.js)
-	- [二叉树中是否存在节点和为指定值的路径](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=117&&tqId=37719&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/63.js)
-	- [树的直径](https://www.nowcoder.com/practice/a77b4f3d84bf4a7891519ffee9376df3?tpId=117&&tqId=37824&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/69.js)
-	- [合并二叉树](https://www.nowcoder.com/practice/7298353c24cc42e3bd5f0e0bd3d1d759?tpId=117&&tqId=37841&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/78.js)
+	- [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/4.js)
+	- [求二叉树的层序遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=117&&tqId=37723&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/6.js)
+	- [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/20.js)
+	- [最近公共祖先](https://www.nowcoder.com/practice/e0cc33a83afe4530bcec46eba3325116?tpId=117&&tqId=37826&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/24.js)
+	- [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/30.js)
+	- [输出二叉树的右视图](https://www.nowcoder.com/practice/c9480213597e45f4807880c763ddd5f0?tpId=117&&tqId=37848&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/37.js)
+	- [二叉树的最大深度](https://www.nowcoder.com/practice/8a2b2bf6c19b4f23a9bdb9b233eefa73?tpId=117&&tqId=37721&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/39.js)
+	- [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=117&&tqId=37757&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/41.js)
+	- [二叉树的所有路径和](https://www.nowcoder.com/practice/185a87cd29eb42049132aed873273e83?tpId=117&&tqId=37715&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/48.js)
+	- [二叉树和为指定值的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=117&&tqId=37718&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/49.js)
+	- [判断一棵二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=117&&tqId=37822&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/54.js)
+	- [二叉树的最大路径和](https://www.nowcoder.com/practice/da785ea0f64b442488c125b441a4ba4a?tpId=117&&tqId=37716&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/58.js)
+	- [二叉树中是否存在节点和为指定值的路径](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=117&&tqId=37719&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/63.js)
+	- [树的直径](https://www.nowcoder.com/practice/a77b4f3d84bf4a7891519ffee9376df3?tpId=117&&tqId=37824&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/69.js)
+	- [合并二叉树](https://www.nowcoder.com/practice/7298353c24cc42e3bd5f0e0bd3d1d759?tpId=117&&tqId=37841&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/78.js)
 - [数组 (13)](https://leetcode-cn.com/tag/array/problemset/)
-	- [两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=117&&tqId=37756&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/8.js)
-	- [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/14.js)
-	- [合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=117&&tqId=37727&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/16.js)
-	- [螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=117&&tqId=37738&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/26.js)
-	- [斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=117&&tqId=37760&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/27.js)
-	- [数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=117&&tqId=37751&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/29.js)
-	- [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/30.js)
-	- [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=117&&tqId=37770&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/42.js)
-	- [矩阵的最小路径和](https://www.nowcoder.com/practice/7d21b6be4c6b429bb92d219341c4f8bb?tpId=117&&tqId=37823&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/43.js)
-	- [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a?tpId=117&&tqId=37737&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/51.js)
-	- [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/53.js)
-	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/57.js)
-	- [旋转数组](https://www.nowcoder.com/practice/e19927a8fd5d477794dac67096862042?tpId=117&&tqId=37834&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/74.js)
+	- [两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=117&&tqId=37756&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/8.js)
+	- [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/14.js)
+	- [合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=117&&tqId=37727&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/16.js)
+	- [螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=117&&tqId=37738&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/26.js)
+	- [斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=117&&tqId=37760&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/27.js)
+	- [数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=117&&tqId=37751&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/29.js)
+	- [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/30.js)
+	- [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=117&&tqId=37770&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/42.js)
+	- [矩阵的最小路径和](https://www.nowcoder.com/practice/7d21b6be4c6b429bb92d219341c4f8bb?tpId=117&&tqId=37823&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/43.js)
+	- [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a?tpId=117&&tqId=37737&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/51.js)
+	- [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/53.js)
+	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/57.js)
+	- [旋转数组](https://www.nowcoder.com/practice/e19927a8fd5d477794dac67096862042?tpId=117&&tqId=37834&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/74.js)
 - [动态规划 (13)](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
-	- [子数组的最大累加和问题](https://www.nowcoder.com/practice/554aa508dd5d4fefbf0f86e5fe953abd?tpId=117&&tqId=37797&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/13.js)
-	- [最长公共子串](https://www.nowcoder.com/practice/f33f5adc55f444baa0e0ca87ad8a6aac?tpId=117&&tqId=37799&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/21.js)
-	- [最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=117&&tqId=37789&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/28.js)
-	- [最长上升子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=117&&tqId=37796&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/10 binary-search/31.js)
-	- [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=117&&tqId=37778&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/35.js)
-	- [矩阵的最小路径和](https://www.nowcoder.com/practice/7d21b6be4c6b429bb92d219341c4f8bb?tpId=117&&tqId=37823&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/43.js)
-	- [求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=117&&tqId=37736&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/50.js)
-	- [最长公共子序列-II](https://www.nowcoder.com/practice/6d29638c85bb4ffd80c020fe244baf11?tpId=117&&tqId=37798&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/52.js)
-	- [最长的括号子串](https://www.nowcoder.com/practice/45fd68024a4c4e97a8d6c45fc61dc6ad?tpId=117&&tqId=37745&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/64.js)
-	- [丢棋子问题](https://www.nowcoder.com/practice/d1418aaa147a4cb394c3c3efc4302266?tpId=117&&tqId=37844&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/67.js)
-	- [换钱的最少货币数](https://www.nowcoder.com/practice/3911a20b3f8743058214ceaa099eeb45?tpId=117&&tqId=37795&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/73.js)
-	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/77.js)
-	- [股票（两次交易）](https://www.nowcoder.com/practice/4892d3ff304a4880b7a89ba01f48daf9?tpId=117&&tqId=37847&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/79.js)
+	- [子数组的最大累加和问题](https://www.nowcoder.com/practice/554aa508dd5d4fefbf0f86e5fe953abd?tpId=117&&tqId=37797&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/13.js)
+	- [最长公共子串](https://www.nowcoder.com/practice/f33f5adc55f444baa0e0ca87ad8a6aac?tpId=117&&tqId=37799&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/21.js)
+	- [最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=117&&tqId=37789&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/28.js)
+	- [最长上升子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=117&&tqId=37796&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/10 binary-search/31.js)
+	- [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=117&&tqId=37778&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/35.js)
+	- [矩阵的最小路径和](https://www.nowcoder.com/practice/7d21b6be4c6b429bb92d219341c4f8bb?tpId=117&&tqId=37823&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/43.js)
+	- [求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=117&&tqId=37736&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/50.js)
+	- [最长公共子序列-II](https://www.nowcoder.com/practice/6d29638c85bb4ffd80c020fe244baf11?tpId=117&&tqId=37798&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/52.js)
+	- [最长的括号子串](https://www.nowcoder.com/practice/45fd68024a4c4e97a8d6c45fc61dc6ad?tpId=117&&tqId=37745&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/64.js)
+	- [丢棋子问题](https://www.nowcoder.com/practice/d1418aaa147a4cb394c3c3efc4302266?tpId=117&&tqId=37844&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/67.js)
+	- [换钱的最少货币数](https://www.nowcoder.com/practice/3911a20b3f8743058214ceaa099eeb45?tpId=117&&tqId=37795&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/73.js)
+	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/77.js)
+	- [股票（两次交易）](https://www.nowcoder.com/practice/4892d3ff304a4880b7a89ba01f48daf9?tpId=117&&tqId=37847&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/79.js)
 - [链表 (12)](https://leetcode-cn.com/tag/linked-list/problemset/)
-	- [反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=117&&tqId=37777&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/1.js)
-	- [合并有序链表](https://www.nowcoder.com/practice/a479a3f0c4554867b35356e0d57cf03d?tpId=117&&tqId=37735&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/9.js)
-	- [链表中的节点每k个一组翻转](https://www.nowcoder.com/practice/b49c3dc907814e9bbfa8437c251b028e?tpId=117&&tqId=37746&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/12.js)
-	- [判断链表中是否有环](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=117&&tqId=37714&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/15.js)
-	- [删除链表的倒数第n个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=117&&tqId=37750&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/18.js)
-	- [两个链表的第一个公共结点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=117&&tqId=37761&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/22.js)
-	- [链表相加](https://www.nowcoder.com/practice/c56f6c70fb3f4849bc56e33ff2a50b6b?tpId=117&&tqId=37814&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/23.js)
-	- [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/34.js)
-	- [判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=117&&tqId=37813&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/47.js)
-	- [重排链表](https://www.nowcoder.com/practice/3d281dc0b3704347846a110bf561ef6b?tpId=117&&tqId=37712&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/61.js)
-	- [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/68.js)
-	- [链表中倒数第k个结点](https://www.nowcoder.com/practice/886370fe658f41b498d40fb34ae76ff9?tpId=117&&tqId=37766&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/72.js)
+	- [反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=117&&tqId=37777&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/1.js)
+	- [合并有序链表](https://www.nowcoder.com/practice/a479a3f0c4554867b35356e0d57cf03d?tpId=117&&tqId=37735&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/9.js)
+	- [链表中的节点每k个一组翻转](https://www.nowcoder.com/practice/b49c3dc907814e9bbfa8437c251b028e?tpId=117&&tqId=37746&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/12.js)
+	- [判断链表中是否有环](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=117&&tqId=37714&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/15.js)
+	- [删除链表的倒数第n个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=117&&tqId=37750&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/18.js)
+	- [两个链表的第一个公共结点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=117&&tqId=37761&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/22.js)
+	- [链表相加](https://www.nowcoder.com/practice/c56f6c70fb3f4849bc56e33ff2a50b6b?tpId=117&&tqId=37814&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/23.js)
+	- [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/34.js)
+	- [判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=117&&tqId=37813&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/47.js)
+	- [重排链表](https://www.nowcoder.com/practice/3d281dc0b3704347846a110bf561ef6b?tpId=117&&tqId=37712&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/61.js)
+	- [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/68.js)
+	- [链表中倒数第k个结点](https://www.nowcoder.com/practice/886370fe658f41b498d40fb34ae76ff9?tpId=117&&tqId=37766&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/72.js)
 - [字符串 (12)](https://leetcode-cn.com/tag/string/problemset/)
-	- [括号序列](https://www.nowcoder.com/practice/37548e94a270412c8b9fb85643c8ccc2?tpId=117&&tqId=37749&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/17.js)
-	- [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/19.js)
-	- [反转字符串](https://www.nowcoder.com/practice/c3a6afee325e472386a1c4eb1ef987f3?tpId=117&&tqId=37827&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/25.js)
-	- [最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=117&&tqId=37789&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/28.js)
-	- [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=117&&tqId=37778&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/35.js)
-	- [判断回文](https://www.nowcoder.com/practice/e297fdd8e9f543059b0b5f05f3a7f3b2?tpId=117&&tqId=37852&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/40.js)
-	- [数字字符串转化成IP地址](https://www.nowcoder.com/practice/ce73540d47374dbe85b3125f57727e1e?tpId=117&&tqId=37725&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/60.js)
-	- [最长的括号子串](https://www.nowcoder.com/practice/45fd68024a4c4e97a8d6c45fc61dc6ad?tpId=117&&tqId=37745&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/64.js)
-	- [最长公共前缀](https://www.nowcoder.com/practice/28eb3175488f4434a4a6207f6f484f47?tpId=117&&tqId=37752&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/65.js)
-	- [大数乘法](https://www.nowcoder.com/practice/c4c488d4d40d4c4e9824c3650f7d5571?tpId=117&&tqId=37843&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/70.js)
-	- [正则表达式匹配](https://www.nowcoder.com/practice/28970c15befb4ff3a264189087b99ad4?tpId=117&&tqId=37780&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/75.js)
-	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/77.js)
+	- [括号序列](https://www.nowcoder.com/practice/37548e94a270412c8b9fb85643c8ccc2?tpId=117&&tqId=37749&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/17.js)
+	- [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/19.js)
+	- [反转字符串](https://www.nowcoder.com/practice/c3a6afee325e472386a1c4eb1ef987f3?tpId=117&&tqId=37827&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/25.js)
+	- [最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=117&&tqId=37789&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/28.js)
+	- [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=117&&tqId=37778&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/35.js)
+	- [判断回文](https://www.nowcoder.com/practice/e297fdd8e9f543059b0b5f05f3a7f3b2?tpId=117&&tqId=37852&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/40.js)
+	- [数字字符串转化成IP地址](https://www.nowcoder.com/practice/ce73540d47374dbe85b3125f57727e1e?tpId=117&&tqId=37725&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/60.js)
+	- [最长的括号子串](https://www.nowcoder.com/practice/45fd68024a4c4e97a8d6c45fc61dc6ad?tpId=117&&tqId=37745&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/64.js)
+	- [最长公共前缀](https://www.nowcoder.com/practice/28eb3175488f4434a4a6207f6f484f47?tpId=117&&tqId=37752&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/65.js)
+	- [大数乘法](https://www.nowcoder.com/practice/c4c488d4d40d4c4e9824c3650f7d5571?tpId=117&&tqId=37843&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/70.js)
+	- [正则表达式匹配](https://www.nowcoder.com/practice/28970c15befb4ff3a264189087b99ad4?tpId=117&&tqId=37780&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/75.js)
+	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/77.js)
 - [dfs (9)](https://leetcode-cn.com/tag/depth-first-search/problemset/)
-	- [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/30.js)
-	- [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/15 breadth-first-search/38.js)
-	- [二叉树的最大深度](https://www.nowcoder.com/practice/8a2b2bf6c19b4f23a9bdb9b233eefa73?tpId=117&&tqId=37721&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/39.js)
-	- [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=117&&tqId=37757&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/41.js)
-	- [二叉树的所有路径和](https://www.nowcoder.com/practice/185a87cd29eb42049132aed873273e83?tpId=117&&tqId=37715&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/48.js)
-	- [二叉树和为指定值的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=117&&tqId=37718&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/49.js)
-	- [判断一棵二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=117&&tqId=37822&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/54.js)
-	- [二叉树的最大路径和](https://www.nowcoder.com/practice/da785ea0f64b442488c125b441a4ba4a?tpId=117&&tqId=37716&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/58.js)
-	- [二叉树中是否存在节点和为指定值的路径](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=117&&tqId=37719&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/63.js)
+	- [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/30.js)
+	- [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/15 breadth-first-search/38.js)
+	- [二叉树的最大深度](https://www.nowcoder.com/practice/8a2b2bf6c19b4f23a9bdb9b233eefa73?tpId=117&&tqId=37721&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/39.js)
+	- [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=117&&tqId=37757&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/41.js)
+	- [二叉树的所有路径和](https://www.nowcoder.com/practice/185a87cd29eb42049132aed873273e83?tpId=117&&tqId=37715&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/48.js)
+	- [二叉树和为指定值的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=117&&tqId=37718&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/49.js)
+	- [判断一棵二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=117&&tqId=37822&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/54.js)
+	- [二叉树的最大路径和](https://www.nowcoder.com/practice/da785ea0f64b442488c125b441a4ba4a?tpId=117&&tqId=37716&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/58.js)
+	- [二叉树中是否存在节点和为指定值的路径](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=117&&tqId=37719&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/63.js)
 - [双指针 (7)](https://leetcode-cn.com/tag/two-pointers/problemset/)
-	- [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/14.js)
-	- [合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=117&&tqId=37727&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/16.js)
-	- [删除链表的倒数第n个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=117&&tqId=37750&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/18.js)
-	- [反转字符串](https://www.nowcoder.com/practice/c3a6afee325e472386a1c4eb1ef987f3?tpId=117&&tqId=37827&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/25.js)
-	- [数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=117&&tqId=37751&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/29.js)
-	- [容器盛水问题](https://www.nowcoder.com/practice/31c1aed01b394f0b8b7734de0324e00f?tpId=117&&tqId=37802&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/7 two-pointers/36.js)
-	- [判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=117&&tqId=37813&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/47.js)
+	- [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/14.js)
+	- [合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=117&&tqId=37727&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/16.js)
+	- [删除链表的倒数第n个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=117&&tqId=37750&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/18.js)
+	- [反转字符串](https://www.nowcoder.com/practice/c3a6afee325e472386a1c4eb1ef987f3?tpId=117&&tqId=37827&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/25.js)
+	- [数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=117&&tqId=37751&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/29.js)
+	- [容器盛水问题](https://www.nowcoder.com/practice/31c1aed01b394f0b8b7734de0324e00f?tpId=117&&tqId=37802&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/7 two-pointers/36.js)
+	- [判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=117&&tqId=37813&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/47.js)
 - [栈 (6)](https://leetcode-cn.com/tag/stack/problemset/)
-	- [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/4.js)
-	- [用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=117&&tqId=37774&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/10.js)
-	- [括号序列](https://www.nowcoder.com/practice/37548e94a270412c8b9fb85643c8ccc2?tpId=117&&tqId=37749&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/17.js)
-	- [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/20.js)
-	- [设计getMin功能的栈](https://www.nowcoder.com/practice/c623426af02d4c189f92f2a99647bd34?tpId=117&&tqId=37793&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/33.js)
-	- [表达式求值](https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4?tpId=117&&tqId=37849&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/44.js)
+	- [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/4.js)
+	- [用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=117&&tqId=37774&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/10.js)
+	- [括号序列](https://www.nowcoder.com/practice/37548e94a270412c8b9fb85643c8ccc2?tpId=117&&tqId=37749&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/17.js)
+	- [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/20.js)
+	- [设计getMin功能的栈](https://www.nowcoder.com/practice/c623426af02d4c189f92f2a99647bd34?tpId=117&&tqId=37793&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/33.js)
+	- [表达式求值](https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4?tpId=117&&tqId=37849&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/44.js)
 - [分治 (6)](https://leetcode-cn.com/tag/divide-and-conquer/problemset/)
-	- [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/5.js)
-	- [寻找第K大](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=37791&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/7.js)
-	- [子数组的最大累加和问题](https://www.nowcoder.com/practice/554aa508dd5d4fefbf0f86e5fe953abd?tpId=117&&tqId=37797&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/3 dynamic-programming/13.js)
-	- [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/34.js)
-	- [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/53.js)
-	- [矩阵元素查找](https://www.nowcoder.com/practice/3afe6fabdb2c46ed98f06cfd9a20f2ce?tpId=117&&tqId=37788&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/9 divide-and-conquer/56.js)
+	- [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/5.js)
+	- [寻找第K大](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=37791&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/7.js)
+	- [子数组的最大累加和问题](https://www.nowcoder.com/practice/554aa508dd5d4fefbf0f86e5fe953abd?tpId=117&&tqId=37797&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/3 dynamic-programming/13.js)
+	- [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/34.js)
+	- [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/53.js)
+	- [矩阵元素查找](https://www.nowcoder.com/practice/3afe6fabdb2c46ed98f06cfd9a20f2ce?tpId=117&&tqId=37788&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/9 divide-and-conquer/56.js)
 - [二分 (6)](https://leetcode-cn.com/tag/binary-search/problemset/)
-	- [最长上升子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=117&&tqId=37796&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/10 binary-search/31.js)
-	- [在旋转过的有序数组中寻找目标值](https://www.nowcoder.com/practice/87c0e7abcbda41e7963660fa7d020995?tpId=117&&tqId=37744&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/10 binary-search/32.js)
-	- [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/53.js)
-	- [矩阵元素查找](https://www.nowcoder.com/practice/3afe6fabdb2c46ed98f06cfd9a20f2ce?tpId=117&&tqId=37788&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/9 divide-and-conquer/56.js)
-	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/57.js)
-	- [二分查找-II](https://www.nowcoder.com/practice/4f470d1d3b734f8aaf2afb014185b395?tpId=117&&tqId=37829&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/10 binary-search/66.js)
+	- [最长上升子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=117&&tqId=37796&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/10 binary-search/31.js)
+	- [在旋转过的有序数组中寻找目标值](https://www.nowcoder.com/practice/87c0e7abcbda41e7963660fa7d020995?tpId=117&&tqId=37744&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/10 binary-search/32.js)
+	- [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/53.js)
+	- [矩阵元素查找](https://www.nowcoder.com/practice/3afe6fabdb2c46ed98f06cfd9a20f2ce?tpId=117&&tqId=37788&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/9 divide-and-conquer/56.js)
+	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/57.js)
+	- [二分查找-II](https://www.nowcoder.com/practice/4f470d1d3b734f8aaf2afb014185b395?tpId=117&&tqId=37829&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/10 binary-search/66.js)
 - [哈希 (5)](https://leetcode-cn.com/tag/hash-table/problemset/)
-	- [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/4.js)
-	- [两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=117&&tqId=37756&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/8.js)
-	- [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/14.js)
-	- [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=117&&tqId=37770&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/42.js)
-	- [字符串出现次数的TopK问题](https://www.nowcoder.com/practice/fd711bdfa0e840b381d7e1b82183b3ee?tpId=117&&tqId=37809&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/11 hash-table/45.js)
+	- [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/4.js)
+	- [两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=117&&tqId=37756&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/8.js)
+	- [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/14.js)
+	- [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=117&&tqId=37770&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/42.js)
+	- [字符串出现次数的TopK问题](https://www.nowcoder.com/practice/fd711bdfa0e840b381d7e1b82183b3ee?tpId=117&&tqId=37809&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/11 hash-table/45.js)
 - [回溯 (5)](https://leetcode-cn.com/tag/backtracking/problemset/)
-	- [括号生成](https://www.nowcoder.com/practice/c9addb265cdf4cdd92c092c655d164ca?tpId=117&&tqId=37748&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/12 backtracking/59.js)
-	- [数字字符串转化成IP地址](https://www.nowcoder.com/practice/ce73540d47374dbe85b3125f57727e1e?tpId=117&&tqId=37725&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/60.js)
-	- [有重复项数字的所有排列](https://www.nowcoder.com/practice/a43a2b986ef34843ac4fdd9159b69863?tpId=117&&tqId=37739&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/12 backtracking/62.js)
-	- [没有重复项数字的所有排列](https://www.nowcoder.com/practice/4bcf3081067a4d028f95acee3ddcd2b1?tpId=117&&tqId=37740&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/12 backtracking/71.js)
-	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/77.js)
+	- [括号生成](https://www.nowcoder.com/practice/c9addb265cdf4cdd92c092c655d164ca?tpId=117&&tqId=37748&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/12 backtracking/59.js)
+	- [数字字符串转化成IP地址](https://www.nowcoder.com/practice/ce73540d47374dbe85b3125f57727e1e?tpId=117&&tqId=37725&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/60.js)
+	- [有重复项数字的所有排列](https://www.nowcoder.com/practice/a43a2b986ef34843ac4fdd9159b69863?tpId=117&&tqId=37739&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/12 backtracking/62.js)
+	- [没有重复项数字的所有排列](https://www.nowcoder.com/practice/4bcf3081067a4d028f95acee3ddcd2b1?tpId=117&&tqId=37740&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/12 backtracking/71.js)
+	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/77.js)
 - [排序 (3)](https://leetcode-cn.com/tag/sort/problemset/)
-	- [排序](https://www.nowcoder.com/practice/2baf799ea0594abd974d37139de27896?tpId=117&&tqId=37851&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/13 sort/2.js)
-	- [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/5.js)
-	- [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a?tpId=117&&tqId=37737&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/51.js)
+	- [排序](https://www.nowcoder.com/practice/2baf799ea0594abd974d37139de27896?tpId=117&&tqId=37851&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/13 sort/2.js)
+	- [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/5.js)
+	- [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a?tpId=117&&tqId=37737&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/51.js)
 - [堆 (3)](https://leetcode-cn.com/tag/heap/problemset/)
-	- [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/5.js)
-	- [寻找第K大](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=37791&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/7.js)
-	- [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/14 heap/34.js)
+	- [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/5.js)
+	- [寻找第K大](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=37791&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/7.js)
+	- [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/14 heap/34.js)
 - [bfs (3)](https://leetcode-cn.com/tag/breadth-first-search/problemset/)
-	- [求二叉树的层序遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=117&&tqId=37723&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/1 tree/6.js)
-	- [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/20.js)
-	- [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/15 breadth-first-search/38.js)
+	- [求二叉树的层序遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=117&&tqId=37723&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/1 tree/6.js)
+	- [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/20.js)
+	- [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/15 breadth-first-search/38.js)
 - [数学 (3)](https://leetcode-cn.com/tag/math/problemset/)
-	- [反转数字](https://www.nowcoder.com/practice/1a3de8b83d12437aa05694b90e02f47a?tpId=117&&tqId=37755&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/16 math/55.js)
-	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/57.js)
-	- [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/4 linked-list/68.js)
+	- [反转数字](https://www.nowcoder.com/practice/1a3de8b83d12437aa05694b90e02f47a?tpId=117&&tqId=37755&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/16 math/55.js)
+	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/57.js)
+	- [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/4 linked-list/68.js)
 - [模拟 (2)](https://leetcode-cn.com/tag/simulation/problemset/)
-	- [设计LRU缓存结构](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=117&&tqId=37804&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/17 simulation/3.js)
-	- [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/19.js)
+	- [设计LRU缓存结构](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=117&&tqId=37804&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/17 simulation/3.js)
+	- [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/19.js)
 - [递归 (2)](https://leetcode-cn.com/tag/recursion/problemset/)
-	- [跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=117&&tqId=37764&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/18 recursion/11.js)
-	- [表达式求值](https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4?tpId=117&&tqId=37849&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/8 stack/44.js)
+	- [跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=117&&tqId=37764&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/18 recursion/11.js)
+	- [表达式求值](https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4?tpId=117&&tqId=37849&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/8 stack/44.js)
 - [位运算 (2)](https://leetcode-cn.com/tag/bit-manipulation/problemset/)
-	- [进制转换](https://www.nowcoder.com/practice/2cc32b88fff94d7e8fd458b8c7b25ec1?tpId=117&&tqId=37836&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/19 bit-manipulation/46.js)
-	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/2 array/57.js)
+	- [进制转换](https://www.nowcoder.com/practice/2cc32b88fff94d7e8fd458b8c7b25ec1?tpId=117&&tqId=37836&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/19 bit-manipulation/46.js)
+	- [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/2 array/57.js)
 - [贪心 (2)](https://leetcode-cn.com/tag/greedy/problemset/)
-	- [股票（无限次交易）](https://www.nowcoder.com/practice/9e5e3c2603064829b0a0bbfca10594e9?tpId=117&&tqId=37846&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/20 greedy/76.js)
-	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/5 string/77.js)
+	- [股票（无限次交易）](https://www.nowcoder.com/practice/9e5e3c2603064829b0a0bbfca10594e9?tpId=117&&tqId=37846&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/20 greedy/76.js)
+	- [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/5 string/77.js)
 - [搜索 (1)](https://leetcode-cn.com/tag/binary-search-tree/problemset/)
-	- [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/15 breadth-first-search/38.js)
+	- [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/15 breadth-first-search/38.js)
 - [图 (1)](https://leetcode-cn.com/tag/graph/problemset/)
-	- [最小生成树](https://www.nowcoder.com/practice/735a34ff4672498b95660f43b7fcd628?tpId=117&&tqId=37869&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking) @[solution](./solutions/22 graph/80.js)
+	- [最小生成树](https://www.nowcoder.com/practice/735a34ff4672498b95660f43b7fcd628?tpId=117&&tqId=37869&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
+		- [Solution](./solutions/22 graph/80.js)
 
 ## 排行榜
 
@@ -164,7 +295,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/1.js)
+[**Solution**](./solutions/4 linked-list/1.js)
+
+<hr>
 
 ### 2. [排序](https://www.nowcoder.com/practice/2baf799ea0594abd974d37139de27896?tpId=117&&tqId=37851&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -172,7 +305,9 @@
 
 #### Tags: [`排序`](https://leetcode-cn.com/tag/sort/problemset/)
 
-#### [Solution](./solutions/13 sort/2.js)
+[**Solution**](./solutions/13 sort/2.js)
+
+<hr>
 
 ### 3. [设计LRU缓存结构](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=117&&tqId=37804&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -180,7 +315,9 @@
 
 #### Tags: [`模拟`](https://leetcode-cn.com/tag/simulation/problemset/)
 
-#### [Solution](./solutions/17 simulation/3.js)
+[**Solution**](./solutions/17 simulation/3.js)
+
+<hr>
 
 ### 4. [实现二叉树先序，中序和后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=117&&tqId=37819&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -188,7 +325,9 @@
 
 #### Tags: [`栈`](https://leetcode-cn.com/tag/stack/problemset/) [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`哈希`](https://leetcode-cn.com/tag/hash-table/problemset/)
 
-#### [Solution](./solutions/8 stack/4.js)
+[**Solution**](./solutions/8 stack/4.js)
+
+<hr>
 
 ### 5. [最小的K个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=117&&tqId=37765&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -196,7 +335,9 @@
 
 #### Tags: [`堆`](https://leetcode-cn.com/tag/heap/problemset/) [`排序`](https://leetcode-cn.com/tag/sort/problemset/) [`分治`](https://leetcode-cn.com/tag/divide-and-conquer/problemset/)
 
-#### [Solution](./solutions/14 heap/5.js)
+[**Solution**](./solutions/14 heap/5.js)
+
+<hr>
 
 ### 6. [求二叉树的层序遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=117&&tqId=37723&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -204,7 +345,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`bfs`](https://leetcode-cn.com/tag/breadth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/6.js)
+[**Solution**](./solutions/1 tree/6.js)
+
+<hr>
 
 ### 7. [寻找第K大](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=37791&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -212,7 +355,9 @@
 
 #### Tags: [`堆`](https://leetcode-cn.com/tag/heap/problemset/) [`分治`](https://leetcode-cn.com/tag/divide-and-conquer/problemset/)
 
-#### [Solution](./solutions/14 heap/7.js)
+[**Solution**](./solutions/14 heap/7.js)
+
+<hr>
 
 ### 8. [两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=117&&tqId=37756&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -220,7 +365,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`哈希`](https://leetcode-cn.com/tag/hash-table/problemset/)
 
-#### [Solution](./solutions/2 array/8.js)
+[**Solution**](./solutions/2 array/8.js)
+
+<hr>
 
 ### 9. [合并有序链表](https://www.nowcoder.com/practice/a479a3f0c4554867b35356e0d57cf03d?tpId=117&&tqId=37735&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -228,7 +375,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/9.js)
+[**Solution**](./solutions/4 linked-list/9.js)
+
+<hr>
 
 ### 10. [用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=117&&tqId=37774&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -236,7 +385,9 @@
 
 #### Tags: [`栈`](https://leetcode-cn.com/tag/stack/problemset/)
 
-#### [Solution](./solutions/8 stack/10.js)
+[**Solution**](./solutions/8 stack/10.js)
+
+<hr>
 
 ### 11. [跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=117&&tqId=37764&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -244,7 +395,9 @@
 
 #### Tags: [`递归`](https://leetcode-cn.com/tag/recursion/problemset/)
 
-#### [Solution](./solutions/18 recursion/11.js)
+[**Solution**](./solutions/18 recursion/11.js)
+
+<hr>
 
 ### 12. [链表中的节点每k个一组翻转](https://www.nowcoder.com/practice/b49c3dc907814e9bbfa8437c251b028e?tpId=117&&tqId=37746&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -252,7 +405,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/12.js)
+[**Solution**](./solutions/4 linked-list/12.js)
+
+<hr>
 
 ### 13. [子数组的最大累加和问题](https://www.nowcoder.com/practice/554aa508dd5d4fefbf0f86e5fe953abd?tpId=117&&tqId=37797&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -260,7 +415,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/) [`分治`](https://leetcode-cn.com/tag/divide-and-conquer/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/13.js)
+[**Solution**](./solutions/3 dynamic-programming/13.js)
+
+<hr>
 
 ### 14. [最长无重复子数组](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=117&&tqId=37816&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -268,7 +425,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`哈希`](https://leetcode-cn.com/tag/hash-table/problemset/) [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/2 array/14.js)
+[**Solution**](./solutions/2 array/14.js)
+
+<hr>
 
 ### 15. [判断链表中是否有环](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=117&&tqId=37714&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -276,7 +435,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/15.js)
+[**Solution**](./solutions/4 linked-list/15.js)
+
+<hr>
 
 ### 16. [合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=117&&tqId=37727&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -284,7 +445,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/2 array/16.js)
+[**Solution**](./solutions/2 array/16.js)
+
+<hr>
 
 ### 17. [括号序列](https://www.nowcoder.com/practice/37548e94a270412c8b9fb85643c8ccc2?tpId=117&&tqId=37749&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -292,7 +455,9 @@
 
 #### Tags: [`栈`](https://leetcode-cn.com/tag/stack/problemset/) [`字符串`](https://leetcode-cn.com/tag/string/problemset/)
 
-#### [Solution](./solutions/8 stack/17.js)
+[**Solution**](./solutions/8 stack/17.js)
+
+<hr>
 
 ### 18. [删除链表的倒数第n个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=117&&tqId=37750&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -300,7 +465,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/) [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/4 linked-list/18.js)
+[**Solution**](./solutions/4 linked-list/18.js)
+
+<hr>
 
 ### 19. [大数加法](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=117&&tqId=37842&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -308,7 +475,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`模拟`](https://leetcode-cn.com/tag/simulation/problemset/)
 
-#### [Solution](./solutions/5 string/19.js)
+[**Solution**](./solutions/5 string/19.js)
+
+<hr>
 
 ### 20. [二叉树的之字形层序遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=117&&tqId=37722&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -316,7 +485,9 @@
 
 #### Tags: [`栈`](https://leetcode-cn.com/tag/stack/problemset/) [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`bfs`](https://leetcode-cn.com/tag/breadth-first-search/problemset/)
 
-#### [Solution](./solutions/8 stack/20.js)
+[**Solution**](./solutions/8 stack/20.js)
+
+<hr>
 
 ### 21. [最长公共子串](https://www.nowcoder.com/practice/f33f5adc55f444baa0e0ca87ad8a6aac?tpId=117&&tqId=37799&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -324,7 +495,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/21.js)
+[**Solution**](./solutions/3 dynamic-programming/21.js)
+
+<hr>
 
 ### 22. [两个链表的第一个公共结点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=117&&tqId=37761&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -332,7 +505,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/22.js)
+[**Solution**](./solutions/4 linked-list/22.js)
+
+<hr>
 
 ### 23. [链表相加](https://www.nowcoder.com/practice/c56f6c70fb3f4849bc56e33ff2a50b6b?tpId=117&&tqId=37814&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -340,7 +515,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/23.js)
+[**Solution**](./solutions/4 linked-list/23.js)
+
+<hr>
 
 ### 24. [最近公共祖先](https://www.nowcoder.com/practice/e0cc33a83afe4530bcec46eba3325116?tpId=117&&tqId=37826&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -348,7 +525,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/)
 
-#### [Solution](./solutions/1 tree/24.js)
+[**Solution**](./solutions/1 tree/24.js)
+
+<hr>
 
 ### 25. [反转字符串](https://www.nowcoder.com/practice/c3a6afee325e472386a1c4eb1ef987f3?tpId=117&&tqId=37827&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -356,7 +535,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/5 string/25.js)
+[**Solution**](./solutions/5 string/25.js)
+
+<hr>
 
 ### 26. [螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=117&&tqId=37738&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -364,7 +545,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/)
 
-#### [Solution](./solutions/2 array/26.js)
+[**Solution**](./solutions/2 array/26.js)
+
+<hr>
 
 ### 27. [斐波那契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=117&&tqId=37760&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -372,7 +555,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/)
 
-#### [Solution](./solutions/2 array/27.js)
+[**Solution**](./solutions/2 array/27.js)
+
+<hr>
 
 ### 28. [最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=117&&tqId=37789&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -380,7 +565,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/5 string/28.js)
+[**Solution**](./solutions/5 string/28.js)
+
+<hr>
 
 ### 29. [数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=117&&tqId=37751&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -389,7 +576,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/2 array/29.js)
+[**Solution**](./solutions/2 array/29.js)
+
+<hr>
 
 ### 30. [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=117&&tqId=37775&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -397,7 +586,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/) [`数组`](https://leetcode-cn.com/tag/array/problemset/)
 
-#### [Solution](./solutions/1 tree/30.js)
+[**Solution**](./solutions/1 tree/30.js)
+
+<hr>
 
 ### 31. [最长上升子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=117&&tqId=37796&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -405,7 +596,9 @@
 
 #### Tags: [`二分`](https://leetcode-cn.com/tag/binary-search/problemset/) [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/10 binary-search/31.js)
+[**Solution**](./solutions/10 binary-search/31.js)
+
+<hr>
 
 ### 32. [在旋转过的有序数组中寻找目标值](https://www.nowcoder.com/practice/87c0e7abcbda41e7963660fa7d020995?tpId=117&&tqId=37744&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -413,7 +606,9 @@
 
 #### Tags: [`二分`](https://leetcode-cn.com/tag/binary-search/problemset/)
 
-#### [Solution](./solutions/10 binary-search/32.js)
+[**Solution**](./solutions/10 binary-search/32.js)
+
+<hr>
 
 ### 33. [设计getMin功能的栈](https://www.nowcoder.com/practice/c623426af02d4c189f92f2a99647bd34?tpId=117&&tqId=37793&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -421,7 +616,9 @@
 
 #### Tags: [`栈`](https://leetcode-cn.com/tag/stack/problemset/)
 
-#### [Solution](./solutions/8 stack/33.js)
+[**Solution**](./solutions/8 stack/33.js)
+
+<hr>
 
 ### 34. [合并k个有序链表](https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6?tpId=117&&tqId=37747&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -429,7 +626,9 @@
 
 #### Tags: [`堆`](https://leetcode-cn.com/tag/heap/problemset/) [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/) [`分治`](https://leetcode-cn.com/tag/divide-and-conquer/problemset/)
 
-#### [Solution](./solutions/14 heap/34.js)
+[**Solution**](./solutions/14 heap/34.js)
+
+<hr>
 
 ### 35. [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=117&&tqId=37778&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -437,7 +636,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/5 string/35.js)
+[**Solution**](./solutions/5 string/35.js)
+
+<hr>
 
 ### 36. [容器盛水问题](https://www.nowcoder.com/practice/31c1aed01b394f0b8b7734de0324e00f?tpId=117&&tqId=37802&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -445,7 +646,9 @@
 
 #### Tags: [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/7 two-pointers/36.js)
+[**Solution**](./solutions/7 two-pointers/36.js)
+
+<hr>
 
 ### 37. [输出二叉树的右视图](https://www.nowcoder.com/practice/c9480213597e45f4807880c763ddd5f0?tpId=117&&tqId=37848&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -453,7 +656,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/)
 
-#### [Solution](./solutions/1 tree/37.js)
+[**Solution**](./solutions/1 tree/37.js)
+
+<hr>
 
 ### 38. [岛屿数量](https://www.nowcoder.com/practice/0c9664d1554e466aa107d899418e814e?tpId=117&&tqId=37833&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -461,7 +666,9 @@
 
 #### Tags: [`bfs`](https://leetcode-cn.com/tag/breadth-first-search/problemset/) [`搜索`](https://leetcode-cn.com/tag/binary-search-tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/15 breadth-first-search/38.js)
+[**Solution**](./solutions/15 breadth-first-search/38.js)
+
+<hr>
 
 ### 39. [二叉树的最大深度](https://www.nowcoder.com/practice/8a2b2bf6c19b4f23a9bdb9b233eefa73?tpId=117&&tqId=37721&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -469,7 +676,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/39.js)
+[**Solution**](./solutions/1 tree/39.js)
+
+<hr>
 
 ### 40. [判断回文](https://www.nowcoder.com/practice/e297fdd8e9f543059b0b5f05f3a7f3b2?tpId=117&&tqId=37852&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -477,7 +686,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/)
 
-#### [Solution](./solutions/5 string/40.js)
+[**Solution**](./solutions/5 string/40.js)
+
+<hr>
 
 ### 41. [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=117&&tqId=37757&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -485,7 +696,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/41.js)
+[**Solution**](./solutions/1 tree/41.js)
+
+<hr>
 
 ### 42. [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=117&&tqId=37770&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -493,7 +706,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`哈希`](https://leetcode-cn.com/tag/hash-table/problemset/)
 
-#### [Solution](./solutions/2 array/42.js)
+[**Solution**](./solutions/2 array/42.js)
+
+<hr>
 
 ### 43. [矩阵的最小路径和](https://www.nowcoder.com/practice/7d21b6be4c6b429bb92d219341c4f8bb?tpId=117&&tqId=37823&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -501,7 +716,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/2 array/43.js)
+[**Solution**](./solutions/2 array/43.js)
+
+<hr>
 
 ### 44. [表达式求值](https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4?tpId=117&&tqId=37849&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -509,7 +726,9 @@
 
 #### Tags: [`栈`](https://leetcode-cn.com/tag/stack/problemset/) [`递归`](https://leetcode-cn.com/tag/recursion/problemset/)
 
-#### [Solution](./solutions/8 stack/44.js)
+[**Solution**](./solutions/8 stack/44.js)
+
+<hr>
 
 ### 45. [字符串出现次数的TopK问题](https://www.nowcoder.com/practice/fd711bdfa0e840b381d7e1b82183b3ee?tpId=117&&tqId=37809&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -517,7 +736,9 @@
 
 #### Tags: [`哈希`](https://leetcode-cn.com/tag/hash-table/problemset/)
 
-#### [Solution](./solutions/11 hash-table/45.js)
+[**Solution**](./solutions/11 hash-table/45.js)
+
+<hr>
 
 ### 46. [进制转换](https://www.nowcoder.com/practice/2cc32b88fff94d7e8fd458b8c7b25ec1?tpId=117&&tqId=37836&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -525,7 +746,9 @@
 
 #### Tags: [`位运算`](https://leetcode-cn.com/tag/bit-manipulation/problemset/)
 
-#### [Solution](./solutions/19 bit-manipulation/46.js)
+[**Solution**](./solutions/19 bit-manipulation/46.js)
+
+<hr>
 
 ### 47. [判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=117&&tqId=37813&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -533,7 +756,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/) [`双指针`](https://leetcode-cn.com/tag/two-pointers/problemset/)
 
-#### [Solution](./solutions/4 linked-list/47.js)
+[**Solution**](./solutions/4 linked-list/47.js)
+
+<hr>
 
 ### 48. [二叉树的所有路径和](https://www.nowcoder.com/practice/185a87cd29eb42049132aed873273e83?tpId=117&&tqId=37715&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -541,7 +766,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/48.js)
+[**Solution**](./solutions/1 tree/48.js)
+
+<hr>
 
 ### 49. [二叉树和为指定值的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=117&&tqId=37718&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -549,7 +776,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/49.js)
+[**Solution**](./solutions/1 tree/49.js)
+
+<hr>
 
 ### 50. [求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=117&&tqId=37736&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -557,7 +786,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/50.js)
+[**Solution**](./solutions/3 dynamic-programming/50.js)
+
+<hr>
 
 ### 51. [合并区间](https://www.nowcoder.com/practice/69f4e5b7ad284a478777cb2a17fb5e6a?tpId=117&&tqId=37737&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -565,7 +796,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`排序`](https://leetcode-cn.com/tag/sort/problemset/)
 
-#### [Solution](./solutions/2 array/51.js)
+[**Solution**](./solutions/2 array/51.js)
+
+<hr>
 
 ### 52. [最长公共子序列-II](https://www.nowcoder.com/practice/6d29638c85bb4ffd80c020fe244baf11?tpId=117&&tqId=37798&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -573,7 +806,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/52.js)
+[**Solution**](./solutions/3 dynamic-programming/52.js)
+
+<hr>
 
 ### 53. [在两个长度相等的排序数组中找到上中位数](https://www.nowcoder.com/practice/6fbe70f3a51d44fa9395cfc49694404f?tpId=117&&tqId=37808&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -581,7 +816,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`分治`](https://leetcode-cn.com/tag/divide-and-conquer/problemset/) [`二分`](https://leetcode-cn.com/tag/binary-search/problemset/)
 
-#### [Solution](./solutions/2 array/53.js)
+[**Solution**](./solutions/2 array/53.js)
+
+<hr>
 
 ### 54. [判断一棵二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=117&&tqId=37822&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -589,7 +826,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/54.js)
+[**Solution**](./solutions/1 tree/54.js)
+
+<hr>
 
 ### 55. [反转数字](https://www.nowcoder.com/practice/1a3de8b83d12437aa05694b90e02f47a?tpId=117&&tqId=37755&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -597,7 +836,9 @@
 
 #### Tags: [`数学`](https://leetcode-cn.com/tag/math/problemset/)
 
-#### [Solution](./solutions/16 math/55.js)
+[**Solution**](./solutions/16 math/55.js)
+
+<hr>
 
 ### 56. [矩阵元素查找](https://www.nowcoder.com/practice/3afe6fabdb2c46ed98f06cfd9a20f2ce?tpId=117&&tqId=37788&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -605,7 +846,9 @@
 
 #### Tags: [`分治`](https://leetcode-cn.com/tag/divide-and-conquer/problemset/) [`二分`](https://leetcode-cn.com/tag/binary-search/problemset/)
 
-#### [Solution](./solutions/9 divide-and-conquer/56.js)
+[**Solution**](./solutions/9 divide-and-conquer/56.js)
+
+<hr>
 
 ### 57. [缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=117&&tqId=37825&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -613,7 +856,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/) [`数学`](https://leetcode-cn.com/tag/math/problemset/) [`二分`](https://leetcode-cn.com/tag/binary-search/problemset/) [`位运算`](https://leetcode-cn.com/tag/bit-manipulation/problemset/)
 
-#### [Solution](./solutions/2 array/57.js)
+[**Solution**](./solutions/2 array/57.js)
+
+<hr>
 
 ### 58. [二叉树的最大路径和](https://www.nowcoder.com/practice/da785ea0f64b442488c125b441a4ba4a?tpId=117&&tqId=37716&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -621,7 +866,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/58.js)
+[**Solution**](./solutions/1 tree/58.js)
+
+<hr>
 
 ### 59. [括号生成](https://www.nowcoder.com/practice/c9addb265cdf4cdd92c092c655d164ca?tpId=117&&tqId=37748&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -629,7 +876,9 @@
 
 #### Tags: [`回溯`](https://leetcode-cn.com/tag/backtracking/problemset/)
 
-#### [Solution](./solutions/12 backtracking/59.js)
+[**Solution**](./solutions/12 backtracking/59.js)
+
+<hr>
 
 ### 60. [数字字符串转化成IP地址](https://www.nowcoder.com/practice/ce73540d47374dbe85b3125f57727e1e?tpId=117&&tqId=37725&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -637,7 +886,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`回溯`](https://leetcode-cn.com/tag/backtracking/problemset/)
 
-#### [Solution](./solutions/5 string/60.js)
+[**Solution**](./solutions/5 string/60.js)
+
+<hr>
 
 ### 61. [重排链表](https://www.nowcoder.com/practice/3d281dc0b3704347846a110bf561ef6b?tpId=117&&tqId=37712&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -645,7 +896,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/61.js)
+[**Solution**](./solutions/4 linked-list/61.js)
+
+<hr>
 
 ### 62. [有重复项数字的所有排列](https://www.nowcoder.com/practice/a43a2b986ef34843ac4fdd9159b69863?tpId=117&&tqId=37739&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -653,7 +906,9 @@
 
 #### Tags: [`回溯`](https://leetcode-cn.com/tag/backtracking/problemset/)
 
-#### [Solution](./solutions/12 backtracking/62.js)
+[**Solution**](./solutions/12 backtracking/62.js)
+
+<hr>
 
 ### 63. [二叉树中是否存在节点和为指定值的路径](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=117&&tqId=37719&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -661,7 +916,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/) [`dfs`](https://leetcode-cn.com/tag/depth-first-search/problemset/)
 
-#### [Solution](./solutions/1 tree/63.js)
+[**Solution**](./solutions/1 tree/63.js)
+
+<hr>
 
 ### 64. [最长的括号子串](https://www.nowcoder.com/practice/45fd68024a4c4e97a8d6c45fc61dc6ad?tpId=117&&tqId=37745&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -669,7 +926,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/5 string/64.js)
+[**Solution**](./solutions/5 string/64.js)
+
+<hr>
 
 ### 65. [最长公共前缀](https://www.nowcoder.com/practice/28eb3175488f4434a4a6207f6f484f47?tpId=117&&tqId=37752&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -677,7 +936,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/)
 
-#### [Solution](./solutions/5 string/65.js)
+[**Solution**](./solutions/5 string/65.js)
+
+<hr>
 
 ### 66. [二分查找-II](https://www.nowcoder.com/practice/4f470d1d3b734f8aaf2afb014185b395?tpId=117&&tqId=37829&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -685,7 +946,9 @@
 
 #### Tags: [`二分`](https://leetcode-cn.com/tag/binary-search/problemset/)
 
-#### [Solution](./solutions/10 binary-search/66.js)
+[**Solution**](./solutions/10 binary-search/66.js)
+
+<hr>
 
 ### 67. [丢棋子问题](https://www.nowcoder.com/practice/d1418aaa147a4cb394c3c3efc4302266?tpId=117&&tqId=37844&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -693,7 +956,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/67.js)
+[**Solution**](./solutions/3 dynamic-programming/67.js)
+
+<hr>
 
 ### 68. [环形链表的约瑟夫问题](https://www.nowcoder.com/practice/41c399fdb6004b31a6cbb047c641ed8a?tpId=117&&tqId=37812&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -701,7 +966,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/) [`数学`](https://leetcode-cn.com/tag/math/problemset/)
 
-#### [Solution](./solutions/4 linked-list/68.js)
+[**Solution**](./solutions/4 linked-list/68.js)
+
+<hr>
 
 ### 69. [树的直径](https://www.nowcoder.com/practice/a77b4f3d84bf4a7891519ffee9376df3?tpId=117&&tqId=37824&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -709,7 +976,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/)
 
-#### [Solution](./solutions/1 tree/69.js)
+[**Solution**](./solutions/1 tree/69.js)
+
+<hr>
 
 ### 70. [大数乘法](https://www.nowcoder.com/practice/c4c488d4d40d4c4e9824c3650f7d5571?tpId=117&&tqId=37843&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -717,7 +986,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/)
 
-#### [Solution](./solutions/5 string/70.js)
+[**Solution**](./solutions/5 string/70.js)
+
+<hr>
 
 ### 71. [没有重复项数字的所有排列](https://www.nowcoder.com/practice/4bcf3081067a4d028f95acee3ddcd2b1?tpId=117&&tqId=37740&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -725,7 +996,9 @@
 
 #### Tags: [`回溯`](https://leetcode-cn.com/tag/backtracking/problemset/)
 
-#### [Solution](./solutions/12 backtracking/71.js)
+[**Solution**](./solutions/12 backtracking/71.js)
+
+<hr>
 
 ### 72. [链表中倒数第k个结点](https://www.nowcoder.com/practice/886370fe658f41b498d40fb34ae76ff9?tpId=117&&tqId=37766&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -733,7 +1006,9 @@
 
 #### Tags: [`链表`](https://leetcode-cn.com/tag/linked-list/problemset/)
 
-#### [Solution](./solutions/4 linked-list/72.js)
+[**Solution**](./solutions/4 linked-list/72.js)
+
+<hr>
 
 ### 73. [换钱的最少货币数](https://www.nowcoder.com/practice/3911a20b3f8743058214ceaa099eeb45?tpId=117&&tqId=37795&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -741,7 +1016,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/73.js)
+[**Solution**](./solutions/3 dynamic-programming/73.js)
+
+<hr>
 
 ### 74. [旋转数组](https://www.nowcoder.com/practice/e19927a8fd5d477794dac67096862042?tpId=117&&tqId=37834&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -749,7 +1026,9 @@
 
 #### Tags: [`数组`](https://leetcode-cn.com/tag/array/problemset/)
 
-#### [Solution](./solutions/2 array/74.js)
+[**Solution**](./solutions/2 array/74.js)
+
+<hr>
 
 ### 75. [正则表达式匹配](https://www.nowcoder.com/practice/28970c15befb4ff3a264189087b99ad4?tpId=117&&tqId=37780&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -757,7 +1036,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/)
 
-#### [Solution](./solutions/5 string/75.js)
+[**Solution**](./solutions/5 string/75.js)
+
+<hr>
 
 ### 76. [股票（无限次交易）](https://www.nowcoder.com/practice/9e5e3c2603064829b0a0bbfca10594e9?tpId=117&&tqId=37846&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -765,7 +1046,9 @@
 
 #### Tags: [`贪心`](https://leetcode-cn.com/tag/greedy/problemset/)
 
-#### [Solution](./solutions/20 greedy/76.js)
+[**Solution**](./solutions/20 greedy/76.js)
+
+<hr>
 
 ### 77. [通配符匹配](https://www.nowcoder.com/practice/e96f1a44d4e44d9ab6289ee080099322?tpId=117&&tqId=37741&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -773,7 +1056,9 @@
 
 #### Tags: [`字符串`](https://leetcode-cn.com/tag/string/problemset/) [`贪心`](https://leetcode-cn.com/tag/greedy/problemset/) [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/) [`回溯`](https://leetcode-cn.com/tag/backtracking/problemset/)
 
-#### [Solution](./solutions/5 string/77.js)
+[**Solution**](./solutions/5 string/77.js)
+
+<hr>
 
 ### 78. [合并二叉树](https://www.nowcoder.com/practice/7298353c24cc42e3bd5f0e0bd3d1d759?tpId=117&&tqId=37841&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -781,7 +1066,9 @@
 
 #### Tags: [`树`](https://leetcode-cn.com/tag/tree/problemset/)
 
-#### [Solution](./solutions/1 tree/78.js)
+[**Solution**](./solutions/1 tree/78.js)
+
+<hr>
 
 ### 79. [股票（两次交易）](https://www.nowcoder.com/practice/4892d3ff304a4880b7a89ba01f48daf9?tpId=117&&tqId=37847&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -789,7 +1076,9 @@
 
 #### Tags: [`动态规划`](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
 
-#### [Solution](./solutions/3 dynamic-programming/79.js)
+[**Solution**](./solutions/3 dynamic-programming/79.js)
+
+<hr>
 
 ### 80. [最小生成树](https://www.nowcoder.com/practice/735a34ff4672498b95660f43b7fcd628?tpId=117&&tqId=37869&rp=1&ru=/ta/job-code-high&qru=/ta/job-code-high/question-ranking)
 
@@ -797,4 +1086,4 @@
 
 #### Tags: [`图`](https://leetcode-cn.com/tag/graph/problemset/)
 
-#### [Solution](./solutions/22 graph/80.js)
+[**Solution**](./solutions/22 graph/80.js)
